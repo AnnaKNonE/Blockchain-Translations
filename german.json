@@ -11,9 +11,9 @@
          "header":"Verbundene Nodes"
       },
       "popular_addresses":{
-         "sub_header":"Meist verwendete Bitcoin Adressen nach Anzahl der Ausgänge",
-         "title":"Die 100 beliebtesten Bitcoin Adressen - Blockchain.info",
-         "meta_description":"Eine Liste der 100 meist benutzten Bitcoin Adressen nach Anzahl der Ausgänge.",
+         "sub_header":"Meist verwendete Bitcoinadressen nach Anzahl der Ausgänge",
+         "title":"Die 100 beliebtesten Bitcoinadressen - Blockchain.info",
+         "meta_description":"Eine Liste der 100 meist benutzten Bitcoinadressen nach Anzahl der Ausgänge.",
          "header":"Meist verwendete Adressen"
       },
       "deposit":{
